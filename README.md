@@ -99,7 +99,7 @@
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
 
-<img src= "https://github.com/NATAKORNCHA/LAB-10/blob/master/LAB10.12.png?raw=true">
+<img src= "https://github.com/NATAKORNCHA/LAB-10/blob/master/imgs/LAB10.12.png?raw=true">
 
 ##เอกสารอ้างอิง
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
